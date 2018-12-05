@@ -1,0 +1,4 @@
+*.pyc
+/django-vue/
+/.idea/
+__pycache__
