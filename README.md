@@ -5,6 +5,7 @@ Currently to run locally, local_settings.py file in src/core/settings is require
 
 Example:
 ----------------------------------
+```
 import os
 from .base import BASE_DIR
 
@@ -36,4 +37,5 @@ WEBPACK_LOADER = {
         'IGNORE': [r'.+\.hot-update.js', r'.+\.map']
     }
 }
+```
 ----------------------------------
